@@ -11,4 +11,9 @@ public class MemberConstruct {
         this.age = age;
         this.grade = grade;
     }
+
+    public MemberConstruct(String name, int age){
+        this(name, age , 50);
+        System.out.println("생성자 호출: name = " + name + ", age = " + age + ", grade = " + this.grade);
+    }
 }
