@@ -1,4 +1,4 @@
-package class1.ref;
+package ref;
 
 public class BigData {
     Data data;

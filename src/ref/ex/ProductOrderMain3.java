@@ -1,4 +1,4 @@
-package class1.ref.ex;
+package ref.ex;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package class1.ref;
+package ref;
 
 public class InitData {
     int value1; // 초기화 안함
