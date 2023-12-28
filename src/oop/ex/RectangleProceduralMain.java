@@ -1,4 +1,4 @@
-package oop1.ex;
+package oop.ex;
 
 public class RectangleProceduralMain {
     public static void main(String[] args) {

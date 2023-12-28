@@ -5,34 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b7ce285-0852-40a8-8f96-e835e8671676" name="Changes" comment="practice: refactoring">
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleOopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleProceduralMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/BigData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/InitData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/InitDataMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/InitDataMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/MethodChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/MethodChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/NullMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/NullMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/NullMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/VarChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/VarChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/ex/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/ex/ProductOrderMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ref/ex/ProductOrderMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ClassStart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ClassStart2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ClassStart3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ClassStart4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ClassStart5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ex/MovieReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ex/MovieReviewMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ex/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ex/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ex/ProductOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ex/ProductOrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MusicPlayerMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MusicPlayerMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MusicPlayerMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MusicPlayerMain4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ex/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/ex/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ex/AccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/ex/AccountMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/ex/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ex/RectangleOopMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/ex/RectangleOopMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ex/RectangleProceduralMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/ex/RectangleProceduralMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,19 +89,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
       <recent name="oop1" />
       <recent name="class1.ref.ex" />
       <recent name="class1.ref" />
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountMain">
+  <component name="RunManager" selected="Application.ConstructMain1">
     <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.AccountMain" />
+      <option name="MAIN_CLASS_NAME" value="oop.ex.AccountMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="oop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain2" />
+    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain3" />
+    <configuration name="MethodInitMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="MusicPlayerMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain4" />
+      <option name="MAIN_CLASS_NAME" value="oop.MusicPlayerMain4" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +150,11 @@
       </method>
     </configuration>
     <configuration name="RectangleOopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.RectangleOopMain" />
+      <option name="MAIN_CLASS_NAME" value="oop.ex.RectangleOopMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="oop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructMain1" />
+        <item itemvalue="Application.MethodInitMain1" />
         <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.RectangleOopMain" />
         <item itemvalue="Application.MusicPlayerMain4" />
-        <item itemvalue="Application.MusicPlayerMain3" />
-        <item itemvalue="Application.MusicPlayerMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,7 @@
       <workItem from="1703600966351" duration="6653000" />
       <workItem from="1703652898094" duration="3258000" />
       <workItem from="1703663442435" duration="3359000" />
-      <workItem from="1703727070872" duration="11991000" />
+      <workItem from="1703727070872" duration="15664000" />
     </task>
     <task id="LOCAL-00001" summary="study: 클래스">
       <option name="closed" value="true" />
@@ -218,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703732296963</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice: refactoring">
+      <option name="closed" value="true" />
+      <created>1703752161340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703752161340</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

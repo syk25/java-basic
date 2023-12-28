@@ -1,4 +1,4 @@
-package oop1;
+package oop;
 
 public class MusicPlayerMain3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package class1.ex;
+package classes.ex;
 
 public class ProductOrderMain {
     public static void main(String[] args) {
