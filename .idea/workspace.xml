@@ -4,15 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7ce285-0852-40a8-8f96-e835e8671676" name="Changes" comment="study: static field, method">
-      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
+    <list default="true" id="9b7ce285-0852-40a8-8f96-e835e8671676" name="Changes" comment="study: final">
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/child/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/parent/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ShopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,40 +75,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/syk25/tutorials/inflearn/kim0han/java-basic/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/syk25/tutorials/inflearn/kim0han/java-basic/src/extends1/overriding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/syk25/tutorials/inflearn/kim0han/java-basic/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/overriding" />
+      <recent name="$PROJECT_DIR$/src/extends1/ex3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="extends1.ex2" />
+      <recent name="extends1.ex1" />
       <recent name="static2" />
       <recent name="static1" />
       <recent name="pack.b" />
-      <recent name="pack.a" />
-      <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstantMain1">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
+  <component name="RunManager" selected="Application.ShopMain">
+    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.access.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
+    <configuration name="ShopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex.ShopMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="final1.*" />
+          <option name="PATTERN" value="extends1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.FinalFieldMain" />
+    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="final1.*" />
+          <option name="PATTERN" value="extends1.super1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathArrayUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtils" />
+    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super2.Super2Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.super2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
+    <configuration name="extends1.overriding.CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.overriding.CarMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstantMain1" />
-        <item itemvalue="Application.FinalFieldMain" />
-        <item itemvalue="Application.MathArrayUtilsMain" />
-        <item itemvalue="Application.MathArrayUtils" />
-        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.ShopMain" />
+        <item itemvalue="Application.Super2Main" />
+        <item itemvalue="Application.Super1Main" />
+        <item itemvalue="Application.ExtendsAccessMain" />
+        <item itemvalue="Application.extends1.overriding.CarMain" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +199,8 @@
       <workItem from="1703841998830" duration="9109000" />
       <workItem from="1703908117448" duration="1832000" />
       <workItem from="1703910330386" duration="3440000" />
-      <workItem from="1703917086367" duration="3785000" />
+      <workItem from="1703917086367" duration="5311000" />
+      <workItem from="1703922812852" duration="7824000" />
     </task>
     <task id="LOCAL-00001" summary="study: 클래스">
       <option name="closed" value="true" />
@@ -292,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703916840069</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="study: final">
+      <option name="closed" value="true" />
+      <created>1703921500796</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703921500796</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +351,8 @@
     <MESSAGE value="practice: access modifier" />
     <MESSAGE value="study: Java Memory Structure - stack, heep, method" />
     <MESSAGE value="study: static field, method" />
-    <option name="LAST_COMMIT_MESSAGE" value="study: static field, method" />
+    <MESSAGE value="study: final" />
+    <option name="LAST_COMMIT_MESSAGE" value="study: final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
