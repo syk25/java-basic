@@ -4,24 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7ce285-0852-40a8-8f96-e835e8671676" name="Changes" comment="study: Java Memory Structure - stack, heep, method">
-      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/Data3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
+    <list default="true" id="9b7ce285-0852-40a8-8f96-e835e8671676" name="Changes" comment="study: static field, method">
+      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +78,7 @@
       <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathArrayUtilsMain">
+  <component name="RunManager" selected="Application.ConstantMain1">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic" />
@@ -101,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
+    <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoMain1" />
+    <configuration name="FinalFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.FinalFieldMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstantMain1" />
+        <item itemvalue="Application.FinalFieldMain" />
         <item itemvalue="Application.MathArrayUtilsMain" />
         <item itemvalue="Application.MathArrayUtils" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.DecoDataMain" />
-        <item itemvalue="Application.DecoMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +169,8 @@
       <workItem from="1703727070872" duration="26067000" />
       <workItem from="1703841998830" duration="9109000" />
       <workItem from="1703908117448" duration="1832000" />
-      <workItem from="1703910330386" duration="3093000" />
+      <workItem from="1703910330386" duration="3440000" />
+      <workItem from="1703917086367" duration="3785000" />
     </task>
     <task id="LOCAL-00001" summary="study: 클래스">
       <option name="closed" value="true" />
@@ -292,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703860850180</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="study: static field, method">
+      <option name="closed" value="true" />
+      <created>1703916840069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703916840069</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +312,8 @@
     <MESSAGE value="update: access modifier" />
     <MESSAGE value="practice: access modifier" />
     <MESSAGE value="study: Java Memory Structure - stack, heep, method" />
-    <option name="LAST_COMMIT_MESSAGE" value="study: Java Memory Structure - stack, heep, method" />
+    <MESSAGE value="study: static field, method" />
+    <option name="LAST_COMMIT_MESSAGE" value="study: static field, method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
